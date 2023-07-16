@@ -1,6 +1,6 @@
-- Hi, I'm Riffkan Cole (TacoEmissary) and I am getting into my second year as a University Student studying IT and comms.
-- I have a diverse interest in the fields of IT and business and I enjoy designing efficient and useful systems.
-- I’m currently learning Web Development over my holidays with the intent to break into the industry in 2023.
+- Hi, I'm Riffkan Cole and I am in my second year as a University Student studying IT and Engineering.
+- I have a diverse interest in the fields of IT and design and I enjoy designing efficient and useful systems.
+- I have studied a mix of pytthon, JS, ReactJS and C# and hope to break into the industry in 2023.
 - I am interested in collaborating on any project and incorporate my diverse set of technical and communication skills.
 - Reach me on literally anything except Telegram because I will think it is a scam.
 
